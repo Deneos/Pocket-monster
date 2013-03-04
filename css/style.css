@@ -1,0 +1,16 @@
+form
+{
+	border: 1px solid black;
+	width: 400px;
+	box-shadow: 10px 10px 5px #888888;
+
+}
+h1
+{
+	color : #8A0000;
+	text-shadow:1px 1px 0 rgba(0,0,0,.8);
+}
+h3
+{
+	color: #FF1919;
+}
